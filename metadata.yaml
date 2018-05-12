@@ -1,0 +1,29 @@
+_repo: Stories-of-American-Life-and-Adventure_15597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: ''
+gutenberg_issued: '2005-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers -- History'
+- !lcc 'E151'
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Juvenile literature'
+title: Stories of American Life and Adventure
+url: http://www.gutenberg.org/ebooks/15597
